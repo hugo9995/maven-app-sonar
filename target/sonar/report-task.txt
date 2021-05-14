@@ -1,0 +1,6 @@
+projectKey=random_generator:rg
+serverUrl=http://sonarqube-preprod.sd.astrazeneca.com
+serverVersion=8.4.1.35646
+dashboardUrl=http://sonarqube-preprod.sd.astrazeneca.com/dashboard?id=random_generator%3Arg
+ceTaskId=AXhCaS88noQ9dRh2JBSF
+ceTaskUrl=http://sonarqube-preprod.sd.astrazeneca.com/api/ce/task?id=AXhCaS88noQ9dRh2JBSF
